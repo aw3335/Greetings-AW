@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Greetings-AW</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Translate_Array">
+        <item>German</item>
+        <item>Spanish</item>
+        <item>French</item>
+    </string-array>
+</resources>
